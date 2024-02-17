@@ -1,0 +1,37 @@
+.snav{
+    justify-content: center;
+    font-size: 19pt;
+    font-weight: 600;
+}
+
+.c4{
+    background-color: #f1f8f6;
+    min-height: 210px;
+}
+
+img{
+    height: 210px;
+    width: 320px;
+}
+
+.c42{
+    min-height: 270px;
+    background-color: #d4e9e2;
+    box-shadow: 0 0px 4px black;
+}
+
+.bc42{
+    padding-top: 20px;
+    padding-left: 250px;
+}
+
+.lc42{
+    margin-left: 30px;
+}
+
+.rc42{
+    padding-top: 40px;
+    margin-left: 100px;
+}
+
+

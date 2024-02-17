@@ -1,0 +1,19 @@
+.hbg{
+    background-color: #1e3932;
+    position: sticky;
+    top: 0;
+}
+
+.logo{
+    width: 55px;
+    height: 55px;
+    margin-left: 20px;
+}
+
+.rnav{
+    justify-content: end;
+}
+
+.line{
+    padding-left: 150px;
+}
