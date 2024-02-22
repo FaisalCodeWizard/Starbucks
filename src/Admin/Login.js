@@ -8,7 +8,7 @@ import Footer from '../Reward Components/Footer';
 function LoginPage() {
     const[userlogin,setUserlogin]=useState();
 
-    let apiurl="http://localhost:4000/AdminRegister"
+    let apiurl="http://localhost:4000/AdminRegister";
     const inputHandler=(e)=>{
         setUserlogin({...userlogin,[e.target.name]: e.target.value})
     }
