@@ -16,7 +16,7 @@ const Header = () => {
                     <ul className='nav'>
                         <li><Link to="/Menu" className='nav-link text-dark mt-1 hov'><b>MENU</b></Link></li>
                         <li><Link to="/" className='nav-link text-dark mt-1 hov'><b>REWARDS</b></Link></li>
-                        <li><Link to="" className='nav-link text-dark mt-1 hov'><b>GIFT CARDS</b></Link></li>
+                        <li><Link to="/Gift" className='nav-link text-dark mt-1 hov'><b>GIFT CARDS</b></Link></li>
                     </ul>
                 </div>
                 <div className='col-md-7'>

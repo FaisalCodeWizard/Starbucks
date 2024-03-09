@@ -1,0 +1,66 @@
+.feature-img1{
+    width: 100%;
+    border-radius: 7%;
+    height: 200px;
+}
+.feature-btn1{
+    margin-top: 8.6rem;
+    padding: 10%;
+    font-size: 1.5rem;
+    border-radius: 40%;
+}
+.slider-b1{
+    margin-left: 5%;
+    height: 250px;
+}
+.slider-img1{
+    width: 320px;
+    height: 210px;
+    margin: 0.5rem 0.5rem;
+    padding-left: 22px;
+    padding-right: 22px;
+    border-radius: 13%;
+}
+
+.slider-img1:hover{
+    width: 325px;
+    height: 215px;
+}
+.slider-head1{
+    margin: 1.5rem 1.5rem;
+    margin-top: 3.5rem;
+}
+.panel2-img1{
+    width: 100%;
+}
+.gift-panel1{
+    background-color: #eae8e0;
+    border-radius: 10px;
+    margin-top: 2rem;
+}
+.gift-panel2{
+    background-color: #d4e9e2;
+    margin-top: 1rem;
+    padding-top: 1.5rem;
+    padding-left: 7rem;
+    padding-bottom: 1rem;
+}
+.gift-p{
+    color: grey;
+    font-size: 1.2rem;
+}
+.gift-btn1{
+    padding: 0.3rem 1rem 0.1rem 1rem;
+    background-color: #d4e9e2;
+    border-radius: 40px;
+    margin-right: 0.5rem;
+}
+.gift-head2{
+    color: #008248;
+}
+.gft-pnl-4{
+    margin: 0.5rem 0rem;
+}
+.gift-panel5-2{
+    background-color: #f3f1e7;
+} 
