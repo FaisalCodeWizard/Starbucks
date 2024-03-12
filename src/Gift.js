@@ -1,6 +1,8 @@
 import React from 'react';
 import Header from './Reward Components/Header';
 import GiftSlider from './Gift Components/GiftSlider';
+import GiftPanel2 from './Gift Components/GiftPanel2';
+import GiftPanel3 from './Gift Components/GiftPanel3';
 
 export const Gift = () => {
 
@@ -79,6 +81,8 @@ export const Gift = () => {
     <>
     <Header/>
     <GiftSlider image={images} name="FEATURED"/>
+    <GiftPanel2/>
+    <GiftPanel3/>
     </>
   )
 }

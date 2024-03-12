@@ -10,7 +10,7 @@
     border-radius: 40%;
 }
 .slider-b1{
-    margin-left: 5%;
+    margin-left: 2%;
     height: 250px;
 }
 .slider-img1{
@@ -31,6 +31,7 @@
     margin-top: 3.5rem;
 }
 .panel2-img1{
+    height: 50px;
     width: 100%;
 }
 .gift-panel1{
@@ -39,10 +40,11 @@
     margin-top: 2rem;
 }
 .gift-panel2{
+    float: left;
     background-color: #d4e9e2;
     margin-top: 1rem;
     padding-top: 1.5rem;
-    padding-left: 7rem;
+    padding-left: 4rem;
     padding-bottom: 1rem;
 }
 .gift-p{
@@ -54,6 +56,7 @@
     background-color: #d4e9e2;
     border-radius: 40px;
     margin-right: 0.5rem;
+    margin-top: 2px;
 }
 .gift-head2{
     color: #008248;
@@ -64,3 +67,7 @@
 .gift-panel5-2{
     background-color: #f3f1e7;
 } 
+
+.p1{
+    float: left;
+}
