@@ -5,6 +5,8 @@ import GiftPanel2 from './Gift Components/GiftPanel2';
 import GiftPanel3 from './Gift Components/GiftPanel3';
 import GiftPanel4 from './Gift Components/GiftPanel4';
 import GiftPanel5 from './Gift Components/GiftPanel5';
+import GiftPanel6 from './Gift Components/GiftPanel6';
+import Footer from './Reward Components/Footer';
 
 export const Gift = () => {
 
@@ -92,6 +94,8 @@ export const Gift = () => {
     <GiftPanel4 image={images5} name="CELEBRATION"/>
     <GiftPanel4 image={images6} name="ENCOURAGEMENT"/>
     <GiftPanel4 image={images7} name="WORKPLACE"/>
+    <GiftPanel6/>&nbsp;
+    <Footer/>
     </>
   )
 }
