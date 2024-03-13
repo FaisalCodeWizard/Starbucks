@@ -3,6 +3,8 @@ import Header from './Reward Components/Header';
 import GiftSlider from './Gift Components/GiftSlider';
 import GiftPanel2 from './Gift Components/GiftPanel2';
 import GiftPanel3 from './Gift Components/GiftPanel3';
+import GiftPanel4 from './Gift Components/GiftPanel4';
+import GiftPanel5 from './Gift Components/GiftPanel5';
 
 export const Gift = () => {
 
@@ -83,6 +85,13 @@ export const Gift = () => {
     <GiftSlider image={images} name="FEATURED"/>
     <GiftPanel2/>
     <GiftPanel3/>
+    <GiftPanel4 image={images1} name="VALENTINE'S DAY | 2/14"/>
+    <GiftPanel5 image={images2} name="WINTER" />
+    <GiftPanel5 image={images3} name="BIRTHDAY"/>
+    <GiftPanel4 image={images4} name="THANK YOU"/>
+    <GiftPanel4 image={images5} name="CELEBRATION"/>
+    <GiftPanel4 image={images6} name="ENCOURAGEMENT"/>
+    <GiftPanel4 image={images7} name="WORKPLACE"/>
     </>
   )
 }

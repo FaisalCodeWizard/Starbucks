@@ -1,11 +1,12 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
+import { Link, useNavigate } from 'react-router-dom';
 import { useState } from 'react';
 import axios from "axios";
 import './Register.css';
 import Footer from '../Reward Components/Footer';
 
 function LoginPage() {
+    const Navigate = useNavigate();
     const[userlogin,setUserlogin]=useState();
 
     let apiurl="http://localhost:4000/AdminRegister";
@@ -29,9 +30,9 @@ function LoginPage() {
     <div className='container-fluid head'>
         <div className='row'>
             <div className='col-md-1 mt-4'>
-            <img src='./images/logo.png' alt='logo' className='logo'/>
+            <img src='./images/logo.png' alt='logo' className='logo' onClick={e=>Navigate("/")}/>
             </div>
-            <div className='col-md-3 py-4 mt-1'><h2>Starbucks</h2></div>
+            <div className='col-md-3 py-4 mt-1'><h2 onClick={e=>Navigate("/")}>Starbucks</h2></div>
         </div>
     </div>
     <div className='container mt-5 inset'>
