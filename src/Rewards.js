@@ -4,6 +4,7 @@ import Star from './Reward Components/star';
 import Started from './Reward Components/started';
 import Slider from './Reward Components/slider';
 import Footer from './Reward Components/Footer';
+import RewardPanel4 from './Reward Components/RewardPanel4';
 
 export const Rewards = () => {
 
@@ -37,6 +38,7 @@ export const Rewards = () => {
     <Star/>
     <Started/>
     <Slider image={images} heading={headings} paragraph={paragraphs} />
+    <RewardPanel4/>
     <Footer/>
     </>
   )
