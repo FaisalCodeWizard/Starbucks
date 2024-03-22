@@ -21,7 +21,7 @@ const Header = () => {
                 </div>
                 <div className='col-md-7'>
                     <ul className='nav rnav'>
-                        <li><Link to="" className='nav-link text-dark mt-1'><b><FaLocationDot size={23}/>&nbsp;Find a store</b></Link></li>
+                        <li><Link to="/Map" className='nav-link text-dark mt-1'><b><FaLocationDot size={23}/>&nbsp;Find a store</b></Link></li>
                         <button className='btn btn-outline-dark rounded-pill mt-1' onClick={e=>Navigate("/Register")}><b>&nbsp; Sign in &nbsp;</b></button>
                         <button className='btn btn-dark rounded-pill mx-3 mt-1' onClick={e=>Navigate("/Login")}><b>Join now</b></button>
                     </ul>
