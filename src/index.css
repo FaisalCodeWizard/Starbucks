@@ -5,3 +5,147 @@
 .store-p11{
     margin-top: 6rem;
 }
+.login-pnl-1{
+    margin-left: 32%;
+    margin-top: 3%;
+}
+.login-ipt-1{
+    width: 70%;
+    border-radius: 10px;
+}
+.login-pnl3-b1{
+    color: #008248;
+    margin-top: 4rem;
+}
+.login-pnl3-b3{
+    margin-left: 40%;
+}
+.login-pnl3-b4{
+    margin-left: 46%;
+}
+.home-panel-1{
+    margin-left: 5%;
+}
+.home-panel-img1{
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+}
+.menu-panel1{
+    height: 180px;
+}
+.menu-b1{
+    height: 155px;
+}
+.home-panel-b2{
+    margin-top: 3rem;
+    margin-left: 0%;
+    padding-left: 0%;
+}
+.oleato-pnl1{
+    background-color:#1e3932;
+    height: 325px;
+}
+.oleatoimg1{
+    padding: 8%;
+    margin-left: 40%;
+    width: 100%;
+    height: 320px;
+}
+.oleato-b1{
+    margin-left: 20%;
+}
+.oleato-b1 h2{
+    color: white;
+}
+.oleato-b11{
+    color: white;
+    margin-top: 25%;
+}
+.oleato-b1 h4{
+    margin-top: 1rem;
+    color: grey;
+}
+.oleato-pnl2{
+    background-color:#21433a;
+    position: fixed;
+    bottom: 0;
+}
+.oleato-b2{
+    padding: 0.5rem;
+    margin-left: 30%;
+    padding-top: 1rem;
+}
+.oleato-b2 span{
+    color: grey;
+}
+.oleato-b2 h6{
+    color: white;
+}
+.oleato-b2 hr{
+    color: white;
+}
+.oleato-icon1{
+    color: grey;
+    margin-left: 30%;
+}
+.oleato-btn-1{
+    background-color: #008248;
+    border: none;
+    border-radius: 30px;
+    color: white;
+    margin-left: 0.7rem;
+}
+.oleato-pnl3{
+    position: fixed;
+    bottom: 120px;
+    z-index: 9999;
+    right: 5px;
+}
+.oleato-btn-2{
+    background-color: #008248;
+    border: none;
+    padding: 0.2rem 0.8rem;
+    border-radius: 10px;
+    margin-top: 10%;
+    margin-left: 120%;
+    color: white;
+}
+.oleato-opt1{
+    width: 100%; 
+    padding: 0.4rem 0.5rem;
+    padding-right: 6rem;
+    font-size: 1.1rem;
+    border-color: #008248;
+    border-width: 2px;
+    border-radius: 10px;
+    color: #008248;
+}
+.oleato-btn4{
+    border: none;
+    border-radius: 50%;
+    background-color: #008248;
+    color: white;
+}
+.oleato-btn44{
+    margin-left: 36%;
+    margin-right: 5%;
+}
+.oleato-btn45{
+    margin-left: 5%;
+    margin-right: 0%;
+}
+.oleato-pnl4{
+    margin-left: 35%;
+    margin-top: 4%;
+    margin-bottom: 2%;
+}
+.oleato-btn5{
+    background-color:#1e3932;
+    border: none;
+    color: white;
+    padding: 0.7rem 1.5rem;
+    border-radius: 30px;
+    margin-top: 1rem;
+    margin-left: 5rem;
+}

@@ -1,0 +1,30 @@
+.drnks-panel2-b1{
+    background-color:#1c3931;
+    margin-top: 1rem;
+    padding-top: 1.5rem;
+    padding-left: 7rem;
+    padding-bottom: 1rem;
+} 
+.drnks-pnl2-btn1{
+    border-color: #e2d38b;
+    background-color:#1c3931;
+    color: #e2d38b;
+    border-radius: 7px;
+}
+.drnks-panel2-b1 span{
+    color: rgb(149, 148, 148);
+}
+.drnks-pnl2-spn{
+    padding-top: 1rem;
+}
+.drnks-pnl2-b12{
+    color: white;
+}
+.drnks-panel2-btn2{
+    background-color:#1c3931;
+    color: white;
+    border-color: white;
+    padding: 0.3rem 1rem 0.1rem 1rem;
+    border-radius: 40px;
+    margin-right: 0.5rem;
+}
