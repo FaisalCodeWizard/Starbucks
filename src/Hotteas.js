@@ -1,5 +1,5 @@
 import React from "react";
-import MenuHeader from "./Menu Component/MenuHeader";
+import Header from './Reward Components/Header';
 import { useState } from 'react';
 import Footer from "./Reward Components/Footer";
 import Drinkspanel1 from "./Drinkscomponent/Drinkspanel1";
@@ -27,7 +27,7 @@ const Hotteas = () => {
   
     return (
       <>
-      <MenuHeader/>
+      <Header/>
         <h5>HOT TEAS</h5>
         <hr/>
       <h6>Menu / Cold Coffees / Oleato Golden Foam™ Cold Brew</h6>

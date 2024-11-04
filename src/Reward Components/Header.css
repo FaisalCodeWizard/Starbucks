@@ -22,3 +22,10 @@
     background-color: #d4e9e2;
     border-radius: 10px;
 }
+
+.nav-link.active {
+    background-color: #d4e9e2; /* Example background */
+    color: #000; /* Example text color */
+    border-radius: 5px; /* Rounded corners */
+  }
+  

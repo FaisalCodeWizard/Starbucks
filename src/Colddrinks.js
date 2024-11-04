@@ -1,5 +1,5 @@
 import React from "react";
-import MenuHeader from "./Menu Component/MenuHeader";
+import Header from './Reward Components/Header';
 import { useState } from 'react';
 import Footer from "./Reward Components/Footer";
 import Drinkspanel1 from "./Drinkscomponent/Drinkspanel1";
@@ -26,7 +26,7 @@ const Colddrinks = () => {
 
   return (
     <>
-      <MenuHeader/> 
+      <Header/> 
     <hr/>
     <h6>Menu / Cold Drinks / Frozen Pineapple Passionfruit Lemonade Starbucks Refreshers® Beverage</h6>
     <Drinkspanel1 img={"./Images/colddrink.jpg"} head4="160 calories" heads={head2}/>

@@ -1,15 +1,15 @@
 import React from 'react';
-import MenuHeader from './Menu Component/MenuHeader';
-import { useProductsContext } from './context/Product1';
+import Header from './Reward Components/Header';
+// import { useProductsContext } from './context/Product1';
 import Footer from './Reward Components/Footer';
 import { Link } from 'react-router-dom';
 
 export const Menu = () => {
-  const MYname = useProductsContext();
+  // const MYname = useProductsContext();
 
   return (
     <>
-    <MenuHeader/>
+    <Header/>
     <div className='container-fluid py-3'>
           <div className='row'>
             <div className='col-md-2 py-3 mt-4 home-panel-1'>

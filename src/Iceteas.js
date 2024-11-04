@@ -1,5 +1,5 @@
 import React from "react";
-import MenuHeader from "./Menu Component/MenuHeader";
+import Header from './Reward Components/Header';
 import Footer from "./Reward Components/Footer";
 import Drinkspanel1 from "./Drinkscomponent/Drinkspanel1";
 import Drinkspanel2 from "./Drinkscomponent/Drinkspanel2";
@@ -12,7 +12,7 @@ const Iceteas = () => {
 
   return (
     <>
-    <MenuHeader/> 
+    <Header/> 
     <hr/>
     <h6>Menu / Iced Teas / Iced Black Tea</h6>
     <Drinkspanel1 img={"./Images/ice.png"} head4="0 calories" heads={head2}/>

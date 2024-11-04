@@ -1,5 +1,5 @@
 import React from "react";
-import MenuHeader from "./Menu Component/MenuHeader";
+import Header from './Reward Components/Header';
 import Footer from "./Reward Components/Footer";
 import Drinkspanel1 from "./Drinkscomponent/Drinkspanel1";
 import Drinkspanel2 from "./Drinkscomponent/Drinkspanel2";
@@ -12,7 +12,7 @@ const Yogurt = () => {
 
   return (
     <>
-      <MenuHeader/> 
+      <Header/> 
     <hr/>
     <h6>Menu / Oatmeal & Yogurt / Rolled & Steel-Cut Oatmeal</h6>
     <Drinkspanel1 img={"./Images/yogurt1.jpg"} head4="160 calories" heads={head2}/>

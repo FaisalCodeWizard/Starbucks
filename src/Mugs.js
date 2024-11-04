@@ -1,5 +1,5 @@
 import React from "react";
-import MenuHeader from "./Menu Component/MenuHeader";
+import Header from './Reward Components/Header';
 import Footer from "./Reward Components/Footer";
 import Drinkspanel1 from "./Drinkscomponent/Drinkspanel1";
 import Drinkspanel2 from "./Drinkscomponent/Drinkspanel2";
@@ -12,7 +12,7 @@ const Mugs = () => {
 
   return (
     <>
-      <MenuHeader/> 
+      <Header/> 
     <hr/>
     <h6>Menu / Mugs / Ceramic Desktop Mug - 14 fl oz</h6>
     <Drinkspanel1 img={"./Images/mug.jpg"}  heads={head2}/>

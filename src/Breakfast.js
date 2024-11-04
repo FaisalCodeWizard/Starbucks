@@ -1,5 +1,5 @@
 import React from "react";
-import MenuHeader from "./Menu Component/MenuHeader";
+import Header from './Reward Components/Header';
 import { useState } from 'react';
 import Footer from "./Reward Components/Footer";
 import Drinkspanel1 from "./Drinkscomponent/Drinkspanel1";
@@ -14,7 +14,7 @@ const Breakfast = () => {
 
   return (
     <>
-      <MenuHeader/> 
+      <Header/> 
     <hr/>
     <h6>Menu / Hot Breakfast / Chicken, Maple Butter & Egg Sandwich</h6>
     <Drinkspanel1 img={"./Images/breakfast.jpg"} head4="450 calories" heads={head2}/>
